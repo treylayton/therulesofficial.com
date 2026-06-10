@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://therulesofficial.com/sitemap.xml
+Sitemap: https://therulescaddie.com/sitemap.xml
